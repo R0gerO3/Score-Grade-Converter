@@ -1,6 +1,4 @@
 //Rodrigo Espinoza
-//Lab 8, #1
-//CS/IS 112
 
 /* goal
 user enters 5 tests scores
@@ -14,7 +12,7 @@ output- avg test scores, letter grade of each test score,
 
 import java.util.Scanner;
 
-public class Lab8_1
+public class Score_Converter
 {
     public static void main(String[] args)
     {
